@@ -1,0 +1,41 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="GNU Lesser General Public License version 3 (LGPLv3)"
+
+[[mods]]
+modId="mafish_crafting"
+version="1.00"
+displayName="Mafish Crafting"
+displayURL="https://mcreator.net"
+credits="\u4F7F\u7528MCreator\u5236\u4F5C (\u517C\u5BB9\u6027\u8B66\u544A)\uFF1Ahttps://mcreator.net/about"
+authors="SystemFileB, MCreator"
+description="\u8BA9\u9A6C\u592B\u9C7C\u6A21\u7EC4\u7684\u7269\u54C1\u4ECD\u7136\u53EF\u4EE5\u5728\u751F\u5B58\u4E2D\u83B7\u5F97"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.mafish_crafting]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.65,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.mafish_crafting]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.mafish_crafting]]
+    modId="neomafishmod"
+    type="required"
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
