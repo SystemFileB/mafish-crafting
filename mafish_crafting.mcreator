@@ -10,12 +10,7 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": [
-      {
-        "name": "Mafishmod_Optimize",
-        "children": []
-      }
-    ]
+    "children": []
   },
   "workspaceSettings": {
     "modid": "mafish_crafting",
