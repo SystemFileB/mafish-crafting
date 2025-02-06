@@ -15,27 +15,33 @@ description="\u8BA9\u9A6C\u592B\u9C7C\u6A21\u7EC4\u7684\u7269\u54C1\u4ECD\u7136\
 # End of user code block mod configuration
 
 [[dependencies.mafish_crafting]]
-    modId="neoforge"
-    type="required"
-    versionRange="[21.1.65,)"
-    ordering="AFTER"
-    side="BOTH"
+modId="neoforge"
+type="required"
+versionRange="[21.1.65,)"
+ordering="AFTER"
+side="BOTH"
 
 [[dependencies.mafish_crafting]]
-    modId="minecraft"
-    type="required"
-    versionRange="[1.21.1]"
-    ordering="AFTER"
-    side="BOTH"
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="AFTER"
+side="BOTH"
 
 [[dependencies.mafish_crafting]]
-    modId="neomafishmod"
-    type="required"
-    versionRange="[0,)"
-    ordering="NONE"
-    side="BOTH"
+modId="neomafishmod"
+type="required"
+versionRange="[0,)"
+ordering="NONE"
+side="BOTH"
 
 
 
 # Start of user code block dependencies configuration
+[[dependencies.mafish_crafting]]
+modId="neomafishmod"
+type="required"
+versionRange="[0.0.4,)"
+ordering="NONE"
+side="BOTH"
 # End of user code block dependencies configuration

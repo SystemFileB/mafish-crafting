@@ -23,7 +23,9 @@
 hs_err_pid*
 replay_pid*
 
-run
-build
+run/*
+build/*
 .mcreator/workspaceBackups/*
-.gradle
+.gradle/*
+/.gradle
+*.lock

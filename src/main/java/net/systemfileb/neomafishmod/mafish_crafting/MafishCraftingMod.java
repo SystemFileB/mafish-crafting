@@ -35,8 +35,20 @@ public class MafishCraftingMod {
 		// End of user code block mod constructor
 		NeoForge.EVENT_BUS.register(this);
 		modEventBus.addListener(this::registerNetworking);
-
 		// Start of user code block mod init
+		LOGGER.info("\r\n" + //
+				".__  __          __  _       _        _____               __  _    _\r\n" + // 为什么这里加了一个点呢，因为第一个字符 (好像) 不能用空格 ()
+				"|  \\/  |        / _|(_)     | |      / ____|             / _|| |  (_)\r\n" + //
+				"| \\  / |  __ _ | |_  _  ___ | |__   | |      _ __  __ _ | |_ | |_  _  _ __    __ _\r\n" + //
+				"| |\\/| | / _` ||  _|| |/ __|| '_ \\  | |     | '__|/ _` ||  _|| __|| || '_ \\  / _` |\r\n" + //
+				"| |  | || (_| || |  | |\\__ \\| | | | | |____ | |  | (_| || |  | |_ | || | | || (_| |\r\n" + //
+				"|_|  |_| \\__,_||_|  |_||___/|_| |_|  \\_____||_|   \\__,_||_|   \\__||_||_| |_| \\__, |\r\n" + //
+				"                                                                              __/ |\r\n" + //
+				"                                                                             |___/\r\n" + //
+				"已被加载!   Is Loaded!\r\n" + //
+				"玩得开心!   Have Fun!  ;)\r\n" + //
+				"\r\n" + //
+				"");
 		// End of user code block mod init
 	}
 

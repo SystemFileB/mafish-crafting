@@ -28,16 +28,7 @@
         {
 		  "type": "minecraft:item",
           "name": "neomafishmod:mafish",
-          "weight": 20,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 5
-              }
-            }
-          ]
+          "weight": 20
         }
       ],
       "rolls": 1
