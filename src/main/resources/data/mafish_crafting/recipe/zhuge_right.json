@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "/@/",
+    "&#&",
+    " /$"
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "@": {
+      "item": "minecraft:iron_ingot"
+    },
+    "&": {
+      "item": "minecraft:string"
+    },
+    "#": {
+      "item": "minecraft:tripwire_hook"
+    },
+    "$": {
+      "item": "neomafishmod:mafish"
+    }
+  },
+  "result": {
+    "id": "neomafishmod:zhuge",
+    "count": 1
+  }
+}

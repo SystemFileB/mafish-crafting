@@ -3,8 +3,8 @@ plugins {
     id 'net.neoforged.moddev' version '1.0.21'
 }
 
-version = '1.0'
-base.archivesName = "modid"
+version = '1.00'
+base.archivesName = "mafish_crafting"
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(21)
 

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "neomafishmod:mafish"
+    },
+    {
+      "item": "minecraft:wooden_sword"
+    },
+    {
+	  "item": "minecraft:pufferfish"
+    }
+  ],
+  "result": {
+    "id": "neomafishmod:poison_sword",
+    "count": 1
+  }
+}
