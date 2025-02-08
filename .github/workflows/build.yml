@@ -26,7 +26,7 @@ jobs:
       - name: 上传 Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: mafish-crafting-snapshot
+          name: mafish-crafting-snapshot-mod
           path: build/libs/*.jar
   
   snapshot-build-datapack:
@@ -41,7 +41,7 @@ jobs:
       - name: 上传 Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: mafish-crafting-snapshot
+          name: mafish-crafting-snapshot-datapack
           path: |
             src/main/resources/data
             src/main/resources/pack.mcmeta
