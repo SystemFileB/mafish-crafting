@@ -3,7 +3,7 @@ name: Snapshot Build / 快照构建
 on: [push, pull_request]
 
 jobs:
-  snapshot-build:
+  snapshot-build-mod:
     runs-on: ubuntu-latest
     steps:
       - name: 获取仓库文件
@@ -28,3 +28,21 @@ jobs:
         with:
           name: mafish-crafting-snapshot
           path: build/libs/*.jar
+  
+  snapshot-build-datapack:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 获取仓库文件
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          fetch-tags: true
+    
+      - name: 上传 Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: mafish-crafting-snapshot
+          path: |
+            src/main/resources/data
+            src/main/resources/pack.mcmeta
+            src/main/resources/pack.png
