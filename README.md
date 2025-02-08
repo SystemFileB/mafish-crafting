@@ -1,13 +1,22 @@
-# mafish-crafting (马夫鱼：合成)
-将马夫鱼模组内的物品添加一些合成配方  
+<p align="center"><img src="./src/main/resources/pack.png" width=150><br></p>
+<h1 align="center">马夫鱼：合成 (Mafish Crafting)</h1>
+
+
+将马夫鱼模组内的物品添加合成配方  
+请使用JEI来查看本Mod添加的配方
 **需要mafish-learning 0.0.5以上版本**
 
-## ℹ️ 已完成配方
-![已完成配方](./马夫鱼所有物品%20(红勾%20原版已添加%20%20黄勾%20已完成%20%20红勾带划%20wiki提到过但没有添加).png)
+## ℹ️ 添加的部分配方
+### 马夫鱼
+- 非常重要，本模组的大部分配方都需要它
+- 钓鱼  
+- 渔夫小屋的箱子
+### 其他
+![1](./img/1.png)![1](./img/5.png)  
+![1](./img/2.png)![1](./img/3.png)  
+![1](./img/4.png)![1](./img/6.png)  
+其他的图片见`img`文件夹
 
-红√：原版已添加  
-红√带一点：wiki提到了，但没有实现  
-黄√：本模组已添加
 
 ## ⚒️ 构建
 虽然这个Mod是使用MCreator制作的，但是你也可以通过传统方法更改和构建  
@@ -15,7 +24,8 @@
 # 安装了gradle
 gradle build
 
-# 没安装gradle (建议将gradle/wrapper/gradle-wrapper.properties中互换两个distributionUrl的注释)
+# 没安装gradle
+# 如果你是中国大陆用户，请将gradle/wrapper/gradle-wrapper.properties的两个distributionUrl的注释互换
 ./gradlew build
 ```
 数据包直接zip打包`src/main/resources`里的全部文件

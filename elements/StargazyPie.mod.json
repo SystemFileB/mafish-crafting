@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.FISH#3"
+      },
+      {
+        "value": "Items.FISH#3"
+      },
+      {
+        "value": "Items.FISH#3"
+      },
+      {
+        "value": "Items.FISH#3"
+      },
+      {
+        "value": "Items.PUMPKIN_PIE"
+      },
+      {
+        "value": "Items.FISH#3"
+      },
+      {
+        "value": "Items.FISH#3"
+      },
+      {
+        "value": "Items.FISH#3"
+      },
+      {
+        "value": "Items.FISH#3"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.PUMPKIN_PIE"
+    },
+    "name": "stargazy_pie",
+    "namespace": "mod"
+  }
+}

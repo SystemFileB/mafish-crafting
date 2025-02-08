@@ -3,14 +3,14 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:wooden_sword"
+      "item": "minecraft:snowball"
     },
     {
-	  "item": "minecraft:pufferfish"
+      "item": "neomafishmod:lightning_item"
     }
   ],
   "result": {
-    "id": "neomafishmod:poison_sword",
+    "id": "neomafishmod:lightning_ball",
     "count": 1
   }
 }

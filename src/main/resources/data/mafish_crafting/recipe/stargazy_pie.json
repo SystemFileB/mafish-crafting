@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:pufferfish"
+    },
+    "b": {
+      "item": "minecraft:pumpkin_pie"
+    }
+  },
+  "result": {
+    "id": "neomafishmod:stargazy_pie",
+    "count": 1
+  }
+}

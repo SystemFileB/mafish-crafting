@@ -107,6 +107,90 @@
           "src/main/resources/data/mafish_crafting/recipe/poison_sword.json"
         ]
       }
+    },
+    {
+      "name": "LightningBall",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lightning_ball",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mafish_crafting/recipe/lightning_ball.json"
+        ]
+      }
+    },
+    {
+      "name": "MilkFlesh",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "milk_flesh",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mafish_crafting/recipe/milk_flesh.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldMelon",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gold_melon",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mafish_crafting/recipe/gold_melon.json"
+        ]
+      }
+    },
+    {
+      "name": "StargazyPie",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "stargazy_pie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mafish_crafting/recipe/stargazy_pie.json"
+        ]
+      }
+    },
+    {
+      "name": "CheeseBurger",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cheese_burger",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mafish_crafting/recipe/cheese_burger.json"
+        ]
+      }
+    },
+    {
+      "name": "PotatoTnt",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "potato_tnt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mafish_crafting/recipe/potato_tnt.json"
+        ]
+      }
+    },
+    {
+      "name": "LawnMower",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "lawn_mower",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mafish_crafting/recipe/lawn_mower.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -130,9 +214,8 @@
     "websiteURL": "https://mcreator.net",
     "license": "GNU Lesser General Public License version 3 (LGPLv3)",
     "serverSideOnly": false,
-    "requiredMods": [
-      "neomafishmod"
-    ],
+    "modPicture": "pack",
+    "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],

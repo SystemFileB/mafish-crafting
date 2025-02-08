@@ -3,14 +3,17 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:wooden_sword"
+      "item": "minecraft:tnt"
     },
     {
-	  "item": "minecraft:pufferfish"
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "neomafishmod:mafish"
     }
   ],
   "result": {
-    "id": "neomafishmod:poison_sword",
+    "id": "neomafishmod:potato_tnt",
     "count": 1
   }
 }

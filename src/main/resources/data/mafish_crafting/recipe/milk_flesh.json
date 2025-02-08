@@ -3,14 +3,14 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:wooden_sword"
+      "item": "minecraft:rotten_flesh"
     },
     {
-	  "item": "minecraft:pufferfish"
+      "item": "minecraft:milk_bucket"
     }
   ],
   "result": {
-    "id": "neomafishmod:poison_sword",
+    "id": "neomafishmod:milk_flesh",
     "count": 1
   }
 }

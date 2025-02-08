@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "neomafishmod:milk_flesh"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "neomafishmod:mafish"
+    }
+  ],
+  "result": {
+    "id": "neomafishmod:cheese_berger",
+    "count": 1
+  }
+}

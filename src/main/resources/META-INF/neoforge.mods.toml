@@ -7,6 +7,7 @@ modId="mafish_crafting"
 version="1.00"
 displayName="Mafish Crafting"
 displayURL="https://mcreator.net"
+logoFile="logo.png"
 credits="\u4F7F\u7528MCreator\u5236\u4F5C (\u517C\u5BB9\u6027\u8B66\u544A)\uFF1Ahttps://mcreator.net/about"
 authors="SystemFileB, MCreator"
 description="\u8BA9\u9A6C\u592B\u9C7C\u6A21\u7EC4\u7684\u7269\u54C1\u4ECD\u7136\u53EF\u4EE5\u5728\u751F\u5B58\u4E2D\u83B7\u5F97"
@@ -28,12 +29,6 @@ versionRange="[1.21.1]"
 ordering="AFTER"
 side="BOTH"
 
-[[dependencies.mafish_crafting]]
-modId="neomafishmod"
-type="required"
-versionRange="[0,)"
-ordering="NONE"
-side="BOTH"
 
 
 
@@ -41,7 +36,7 @@ side="BOTH"
 [[dependencies.mafish_crafting]]
 modId="neomafishmod"
 type="required"
-versionRange="[0.0.4,)"
+versionRange="[0.0.5,)"
 ordering="NONE"
 side="BOTH"
 # End of user code block dependencies configuration
