@@ -1,4 +1,4 @@
-name: Snapshot Build / 快照构建
+name: Crafting Snapshot Build / 马夫鱼：合成 快照构建
 
 on: [push, pull_request]
 
