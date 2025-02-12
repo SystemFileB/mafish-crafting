@@ -1,16 +1,16 @@
 modLoader="javafml"
 loaderVersion="[4,)"
-license="GNU Lesser General Public License version 3 (LGPLv3)"
+license="LGPLv3"
 
 [[mods]]
 modId="mafish_crafting"
-version="1.00"
+version="1.01"
 displayName="Mafish Crafting"
-displayURL="https://mcreator.net"
-logoFile="logo.png"
-credits="\u4F7F\u7528MCreator\u5236\u4F5C (\u517C\u5BB9\u6027\u8B66\u544A)\uFF1Ahttps://mcreator.net/about"
-authors="SystemFileB, MCreator"
+displayURL="https://github.com/SystemFileB/mafish-extras/tree/mafish-crafting"
+credits="E"
+authors="SystemFileB"
 description="\u8BA9\u9A6C\u592B\u9C7C\u6A21\u7EC4\u7684\u7269\u54C1\u4ECD\u7136\u53EF\u4EE5\u5728\u751F\u5B58\u4E2D\u83B7\u5F97"
+displayTest="IGNORE_SERVER_VERSION"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration
