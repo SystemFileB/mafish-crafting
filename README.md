@@ -1,4 +1,5 @@
-# Mafish Extras Collection
+<p align="center"><img src="./马夫鱼桶.png"></p>
+<h1 align="center">Mafish Extras Collection</h1>
 这个仓库以分支的形式设成了多个Mod或数据包，在拓展马夫鱼模组的玩法外，让生存模式的玩家也能获取到Mod的内容
 
 每个分支都有一个单独的README，请前往各个分支查看
