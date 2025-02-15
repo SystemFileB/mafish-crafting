@@ -7,7 +7,21 @@
     "expandedPaths": [
       "[, Mafish Crafting]",
       "[, Mafish Crafting, Source (Gradle)]",
-      "[, Mafish Crafting, Resources (Gradle)]"
+      "[, Mafish Crafting, Source (Gradle), H:\\MCreator_Mods\\mafish_crafting\\src\\main\\java\\net]",
+      "[, Mafish Crafting, Source (Gradle), H:\\MCreator_Mods\\mafish_crafting\\src\\main\\java\\net, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\java\\net\\systemfileb]",
+      "[, Mafish Crafting, Source (Gradle), H:\\MCreator_Mods\\mafish_crafting\\src\\main\\java\\net, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\java\\net\\systemfileb, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\java\\net\\systemfileb\\neomafishmod]",
+      "[, Mafish Crafting, Source (Gradle), H:\\MCreator_Mods\\mafish_crafting\\src\\main\\java\\net, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\java\\net\\systemfileb, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\java\\net\\systemfileb\\neomafishmod, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\java\\net\\systemfileb\\neomafishmod\\mafish_crafting]",
+      "[, Mafish Crafting, Resources (Gradle)]",
+      "[, Mafish Crafting, Resources (Gradle), H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\assets]",
+      "[, Mafish Crafting, Resources (Gradle), H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\assets, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\assets\\mafish_crafting]",
+      "[, Mafish Crafting, Resources (Gradle), H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\assets, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\assets\\mafish_crafting, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\assets\\mafish_crafting\\lang]",
+      "[, Mafish Crafting, Resources (Gradle), H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data]",
+      "[, Mafish Crafting, Resources (Gradle), H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft]",
+      "[, Mafish Crafting, Resources (Gradle), H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft\\loot_table]",
+      "[, Mafish Crafting, Resources (Gradle), H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft\\loot_table, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft\\loot_table\\chests]",
+      "[, Mafish Crafting, Resources (Gradle), H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft\\loot_table, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft\\loot_table\\chests, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft\\loot_table\\chests\\village]",
+      "[, Mafish Crafting, Resources (Gradle), H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft\\loot_table, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft\\loot_table\\gameplay]",
+      "[, Mafish Crafting, Resources (Gradle), H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft\\loot_table, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft\\loot_table\\gameplay, H:\\MCreator_Mods\\mafish_crafting\\src\\main\\resources\\data\\minecraft\\loot_table\\gameplay\\fishing]"
     ]
   }
 }

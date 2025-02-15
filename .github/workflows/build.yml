@@ -1,6 +1,12 @@
 name: Crafting Snapshot Build / 马夫鱼：合成 快照构建
 
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - mafish-crafting
+  pull_request:
+    branches:
+      - mafish-crafting
 
 jobs:
   snapshot-build-mod:
@@ -11,6 +17,7 @@ jobs:
         with:
           fetch-depth: 0
           fetch-tags: true
+          ref: mafish-crafting
 
       - name: 安装 JDK 21
         uses: actions/setup-java@v4
@@ -37,6 +44,7 @@ jobs:
         with:
           fetch-depth: 0
           fetch-tags: true
+          ref: mafish-crafting
     
       - name: 上传 Artifacts
         uses: actions/upload-artifact@v4
