@@ -4,6 +4,8 @@
 
 每个分支都有一个单独的README，请前往各个分支查看
 
+从现在开始，请不要从Release获取模组，到[Actions](https://github.com/SystemFileB/mafish-extras/actions)和[我的Modrinth主页](https://modrinth.com/user/SystemFileB)去下载
+
 ## 不要为本仓库的 分支<-分支 创建拉取请求
 但是你仍然可以以fork的形式创建PR
 
